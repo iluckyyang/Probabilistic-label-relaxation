@@ -22,4 +22,7 @@ Dependencies: rgdal, rpart
 
 To run this code: source("Probabilistic label relaxation.R")
 
+Image before relaxation: DT.png
+Image after relaxation: DTrelaxed.png
+
 Contact: tnybny@gmail.com
